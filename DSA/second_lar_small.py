@@ -1,7 +1,7 @@
 def Secondlargest(arr):
     n = len(arr)
     if n < 2: 
-        return [-1]
+        return [-1,-1]
     
     largest = arr[0]
     slargest = float('-inf')
@@ -27,7 +27,7 @@ def Secondlargest(arr):
     return [slargest, ssmallest]
 
 
-arr = [3,6,1,9,10]
+arr = [3]
 slargest, ssmallest = Secondlargest(arr)
 
 print(f"Second Largest {slargest} and Second Smallest {ssmallest}")
