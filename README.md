@@ -7,3 +7,7 @@ Session 2 - Setup the VS Code, Github and make the virtual environment.
 Session 3 - Learn all about the Github and CLI commands like git add, git commit, git push, cd, ls etc.
 
 Session 4 - Learn about the Python Variables, Data Types (int, floar, string, bool), Basic math , print and input functions.
+
+Session 5 - Learn about Conditionals(if-else), Boolean Logic, Logical Operators (And, Or, Not).
+
+Session 6 - Learn about For Loops, While Loops, Iterating over simple lists, Loop control (Break, Continue)
