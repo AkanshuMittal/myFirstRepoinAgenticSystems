@@ -8,4 +8,4 @@ def pass_fail_checker(score):
 
 score = int(input("Enter the score: "))
 
-pass_fail_checker(score)
+pass_fail_checker(score) 
