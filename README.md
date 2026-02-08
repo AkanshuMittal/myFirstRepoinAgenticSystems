@@ -11,3 +11,11 @@ Session 4 - Learn about the Python Variables, Data Types (int, floar, string, bo
 Session 5 - Learn about Conditionals(if-else), Boolean Logic, Logical Operators (And, Or, Not).
 
 Session 6 - Learn about For Loops, While Loops, Iterating over simple lists, Loop control (Break, Continue)
+
+Session 7 - Learn about defining functions, Parameters and Arguments, Return values and Code Modularity.
+
+Session 8 - Learn about Lists and slicing, Dictionaries for key-value data, Tuples, Sets.
+
+Session 9 - Learn about Opening files (Open, close), Using 'With' blocks, Reading TXT files, Writing simple logs.
+
+
