@@ -3,7 +3,7 @@ def user_details(users):
         scores = user["scores"]
         average = sum(scores)/len(scores)
         
-    return average
+        return average
 
 def user_roles(roles):
     if "admin" in roles:
@@ -31,3 +31,5 @@ def main():
     
     result = user_roles("roles")
     print(f"Admin Access: {result}")
+    
+main()
