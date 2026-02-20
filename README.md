@@ -18,5 +18,7 @@ Session 8 - Learn about Lists and slicing, Dictionaries for key-value data, Tupl
 
 Session 9 - Learn about Opening files (Open, close), Using 'With' blocks, Reading TXT files, Writing simple logs.
 
+Session 10 - Learning about how to create arrays, basic array math, shape and reshape using numpy and Performance vs Python Lists.
 
+Session 11 - Learning about Multidimensional arrays, slicing Numpy and generating random data using Numpy.
 
