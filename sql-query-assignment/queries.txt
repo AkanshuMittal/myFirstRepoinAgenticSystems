@@ -61,3 +61,29 @@ SELECT score as final_score FROM STUDENTS;
 - Returns only the top 3 results
 
 SELECT name, score FROM STUDENTS WHERE score > 75 ORDER BY score DESC LIMIT 3;
+
+Query 1: Average salary & employee count (avg > 60000)
+SELECT 
+    department,
+    AVG(salary) AS avg_salary,
+    COUNT(emp_id) AS total_employees
+FROM employees
+GROUP BY department
+HAVING AVG(salary) > 60000
+ORDER BY avg_salary DESC;
+
+Query 2: Employees working in Mumbai (using JOIN)
+SELECT 
+    e.name,
+    e.salary
+FROM employees e
+JOIN departments d
+ON e.department = d.dept_name
+WHERE d.location = 'Mumbai';
+
+Query 3: Highest-paid employee
+SELECT 
+    name,
+    salary
+FROM employees
+WHERE salary = (SELECT MAX(salary) FROM employees);
