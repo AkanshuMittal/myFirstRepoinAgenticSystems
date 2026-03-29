@@ -24,6 +24,6 @@ print(type(role))
 for i in role:
     print(i)
     
+# val = parsed.get("User").get("abc")
 val = parsed.get("User").get("abc")
-
 print(val)
