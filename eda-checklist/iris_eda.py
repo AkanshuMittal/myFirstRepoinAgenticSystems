@@ -29,3 +29,8 @@ import plotly.express as px
 fig = px.histogram(df, x='petal_length', title='Distribution of Petal Length')
 
 fig.show()
+
+# Observation: Analyzing the distribution of one feature
+fig2 = px.box(df, y='petal_length', title='Box Plot for Outlier Detection')
+
+fig2.show()
