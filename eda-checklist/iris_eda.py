@@ -10,6 +10,13 @@ print(df.tail())
 
 print(df.shape)
 
+print(df.describe())
+
+# Observation: Checking column information and missing values
 print(df.info())
 
-print(df.describe())
+print(df.isnull().sum())
+
+print(df.dtypes)
+
+print(df.columns)
