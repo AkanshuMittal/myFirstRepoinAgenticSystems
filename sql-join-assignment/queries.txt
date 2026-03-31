@@ -40,3 +40,33 @@ SELECT * FROM users;
 SELECT * FROM orders;
 
 SELECT * FROM activity;
+
+
+Query 1: Retrieve each user's name and order amount (INNER JOIN)
+SELECT name,amount FROM users 
+INNER JOIN orders
+ON users.user_id = orders.user_id;
+
+
+Query 2: Retrieve user name and total order amount for each user.
+SELECT u.name, SUM(o.amount) AS total_amount FROM users u
+INNER JOIN orders o
+ON u.user_id = o.user_id
+GROUP BY u.name;
+
+
+Query 3: Retrieve all users and their login counts, including users with no recorded activity.
+SELECT name, login_count FROM users 
+LEFT JOIN activity
+ON users.user_id = activity.user_id;
+
+
+Query 4: Retrieve users who never placed an order
+SELECT name FROM users 
+LEFT JOIN orders
+ON users.user_id = orders.user_id
+WHERE order_id IS NULL;
+
+Query 5: Combine all three tables to return
+S
+
