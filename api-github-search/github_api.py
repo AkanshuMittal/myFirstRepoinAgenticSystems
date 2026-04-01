@@ -11,7 +11,11 @@ params = {
 response = requests.get("https://api.github.com/search/repositories", params=params)
 
 data = response.json()
+#data = response.text
+
 
 for repo in data["items"]:
     print(f"Repository Name: {repo['name']}")
     print(f"Stars: {repo['stargazers_count']}")
+    
+    
