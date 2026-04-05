@@ -73,3 +73,5 @@ Session 25 - Learning about problem framing, features vs labels, Training/Valida
 ## (Data Prep: Handling Messy Data)
 Session 26 - Learning about imputing missing values, removing duplicates, categorical encoding, scaling and normalization.
 
+## (Leakage and Imbalance)
+Session 27 - Learning about data leakage guard, class imbalance basics, synthetic data concepts and cross-validation.
