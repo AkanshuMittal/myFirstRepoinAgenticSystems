@@ -75,3 +75,6 @@ Session 26 - Learning about imputing missing values, removing duplicates, catego
 
 ## (Leakage and Imbalance)
 Session 27 - Learning about data leakage guard, class imbalance basics, synthetic data concepts and cross-validation.
+
+## Regression: Predicting Numbers
+Session 28 - Linear Regression Intuition, Ordinary Least Squares, Slopes and Intercepts.
