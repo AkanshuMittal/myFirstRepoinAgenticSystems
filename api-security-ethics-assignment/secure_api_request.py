@@ -8,20 +8,24 @@ api_key = os.getenv("API_KEY")
 
 #print(api_key)
 
-url = "https://api.example.com/data"
+url = "https://jsonplaceholder.typicode.com/posts"
 
 headers = {
     "Authorization": f"Bearer {api_key}"
 }
 
-response = requests.get(url, headers=headers)
+try:
+    response = requests.get(url, headers=headers, timeout=10)
 
-if response.status_code == 200:
-    print("Success:")
-    print(response.json())
+    if response.status_code == 200:
+        print("Success:")
+        print(response.json())
 
-elif response.status_code == 429:
-    print("Rate limit reached. Try again later.")
+    elif response.status_code == 429:
+        print("Rate limit reached. Try again later.")
 
-else:
-    print("Request failed:", response.status_code)
+    else:
+        print("Request failed:", response.status_code)
+
+except requests.exceptions.RequestException as e:
+    print("Error:", e)
