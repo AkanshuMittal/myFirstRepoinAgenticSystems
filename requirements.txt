@@ -8,3 +8,4 @@ dotenv
 streamlit
 scikit-learn
 python-dotenv
+tensorflow
