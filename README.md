@@ -83,3 +83,6 @@ Session 28 - Learning about Linear Regression Intuition, Ordinary Least Squares,
 
 ## Regression: Regularization
 Session 29 - Learning about Overfitting vs Underfitting, Lasso and Ridge Regression, Tuning alpha and Bias Variance Tradeoff.
+
+## Regression Metrics
+Session 30 - Learning about MAE, RMSE, R-Squared, Interpreting error graphs and Quick Error Analysis.
