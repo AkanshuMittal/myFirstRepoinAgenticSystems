@@ -86,3 +86,7 @@ Session 29 - Learning about Overfitting vs Underfitting, Lasso and Ridge Regress
 
 ## Regression Metrics
 Session 30 - Learning about MAE, RMSE, R-Squared, Interpreting error graphs and Quick Error Analysis.
+
+## Classification: Logistic Regression
+
+Session 31 - Learning about Sigmoid function, Binary classification, Probabilities and Decision boundaries.
