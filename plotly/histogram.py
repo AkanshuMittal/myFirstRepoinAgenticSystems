@@ -9,6 +9,7 @@ fig = px.histogram(
     df,
     x="age",
     title='Age distribution of App users'
+    #nbins=4
 )
 
 fig.update_traces(
