@@ -90,3 +90,11 @@ Session 30 - Learning about MAE, RMSE, R-Squared, Interpreting error graphs and 
 ## Classification: Logistic Regression
 
 Session 31 - Learning about Sigmoid function, Binary classification, Probabilities and Decision boundaries.
+
+## Classification: Decision Trees
+
+Session 32 - Learning about Nodes and Leaves, Information gain, Entropy, Interpreting a tree plot.
+
+## Classification: Random Forests
+
+Session 33 - Learning about Bagging, Wisdom of the crowd, Forest Parameters and Feature importance ranking.
