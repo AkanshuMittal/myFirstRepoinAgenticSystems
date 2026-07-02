@@ -9,3 +9,5 @@ streamlit
 scikit-learn
 python-dotenv
 tensorflow
+chromadb
+sentence-transformers
