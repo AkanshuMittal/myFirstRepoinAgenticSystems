@@ -98,3 +98,7 @@ Session 32 - Learning about Nodes and Leaves, Information gain, Entropy, Interpr
 ## Classification: Random Forests
 
 Session 33 - Learning about Bagging, Wisdom of the crowd, Forest Parameters and Feature importance ranking.
+
+## Classification Metrics:
+
+Session 34 - Learning about Accuracy vs Precision; Recall, F1-Score, Confusion Matrix.
