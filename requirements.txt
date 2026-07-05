@@ -11,3 +11,4 @@ python-dotenv
 tensorflow
 chromadb
 sentence-transformers
+tiktoken
