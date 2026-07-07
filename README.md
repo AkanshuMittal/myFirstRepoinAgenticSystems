@@ -88,17 +88,19 @@ Session 29 - Learning about Overfitting vs Underfitting, Lasso and Ridge Regress
 Session 30 - Learning about MAE, RMSE, R-Squared, Interpreting error graphs and Quick Error Analysis.
 
 ## Classification: Logistic Regression
-
 Session 31 - Learning about Sigmoid function, Binary classification, Probabilities and Decision boundaries.
 
 ## Classification: Decision Trees
-
 Session 32 - Learning about Nodes and Leaves, Information gain, Entropy, Interpreting a tree plot.
 
 ## Classification: Random Forests
-
 Session 33 - Learning about Bagging, Wisdom of the crowd, Forest Parameters and Feature importance ranking.
 
 ## Classification Metrics:
-
 Session 34 - Learning about Accuracy vs Precision; Recall, F1-Score, Confusion Matrix.
+
+## Visualizing Performance (ROC-AUC):
+Session 35 - Learning about the ROC Curve, AUC score, True Positive VS False Positive rates.
+
+## Unsupervised Learning:
+Session 36 - Learning about K-Means clustering intuition, Segmentationn use cases, Elbow method and visualization.
