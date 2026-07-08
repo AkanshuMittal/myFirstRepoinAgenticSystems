@@ -104,3 +104,6 @@ Session 35 - Learning about the ROC Curve, AUC score, True Positive VS False Pos
 
 ## Unsupervised Learning:
 Session 36 - Learning about K-Means clustering intuition, Segmentationn use cases, Elbow method and visualization.
+
+## Dimensionality Reduction
+Session 37 - Learning about PCA Basics, 2D visualization of high-D data and Preserving variance.
