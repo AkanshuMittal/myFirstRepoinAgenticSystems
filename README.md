@@ -107,3 +107,6 @@ Session 36 - Learning about K-Means clustering intuition, Segmentationn use case
 
 ## Dimensionality Reduction
 Session 37 - Learning about PCA Basics, 2D visualization of high-D data and Preserving variance.
+
+## Time Series
+Session 38 - Learning about Trend vs Seasonality, Time-aware splits, Rolling windows and Evaluation for time series.
