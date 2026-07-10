@@ -110,3 +110,6 @@ Session 37 - Learning about PCA Basics, 2D visualization of high-D data and Pres
 
 ## Time Series
 Session 38 - Learning about Trend vs Seasonality, Time-aware splits, Rolling windows and Evaluation for time series.
+
+## Model Selection and Comparison
+Session 39 - Learning about Metric tables, Comparison by complexity, Model persistence(Saving/Loading) and Selection checklist.
