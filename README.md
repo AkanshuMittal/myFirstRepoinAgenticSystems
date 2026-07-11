@@ -113,3 +113,6 @@ Session 38 - Learning about Trend vs Seasonality, Time-aware splits, Rolling win
 
 ## Model Selection and Comparison
 Session 39 - Learning about Metric tables, Comparison by complexity, Model persistence(Saving/Loading) and Selection checklist.
+
+## Transition to GenAI
+Session 40 - Learning about Where classical ML fails, Intro to Neural Networks intuition and The rise of LLMs.
