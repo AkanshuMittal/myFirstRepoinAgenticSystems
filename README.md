@@ -119,7 +119,7 @@ Session 40 - Learning about Where classical ML fails, Intro to Neural Networks i
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Module - 3 GenAI and Agents
+# Module - 3 GenAI and Agents
 
 ## GenAI Concepts for Beginners
 Session 41 - Learning about Tokens, Context Windows, Hallucinations and Probabilistic Text Generation.
