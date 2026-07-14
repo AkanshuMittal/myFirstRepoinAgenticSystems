@@ -123,3 +123,6 @@ Session 40 - Learning about Where classical ML fails, Intro to Neural Networks i
 
 ## GenAI Concepts for Beginners
 Session 41 - Learning about Tokens, Context Windows, Hallucinations and Probabilistic Text Generation.
+
+## Mastering Prompt Engineering
+Session 42 - Learning about System Vs User Prompts, Zero-shot vs Few Shot, Chain of Thought (CoT) and Prompt templates.
