@@ -126,3 +126,6 @@ Session 41 - Learning about Tokens, Context Windows, Hallucinations and Probabil
 
 ## Mastering Prompt Engineering
 Session 42 - Learning about System Vs User Prompts, Zero-shot vs Few Shot, Chain of Thought (CoT) and Prompt templates.
+
+## OpenSource LLMs (HuggingFace and Ollama)
+Session 43 - Learning about Hugging Face ecosystem, Ollama for local LLMs and Local LLM demo.
