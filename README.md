@@ -110,3 +110,19 @@ Session 37 - Learning about PCA Basics, 2D visualization of high-D data and Pres
 
 ## Time Series
 Session 38 - Learning about Trend vs Seasonality, Time-aware splits, Rolling windows and Evaluation for time series.
+
+## Model Selection and Comparison
+Session 39 - Learning about Metric tables, Comparison by complexity, Model persistence(Saving/Loading) and Selection checklist.
+
+## Transition to GenAI
+Session 40 - Learning about Where classical ML fails, Intro to Neural Networks intuition and The rise of LLMs.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Module - 3 GenAI and Agents
+
+## GenAI Concepts for Beginners
+Session 41 - Learning about Tokens, Context Windows, Hallucinations and Probabilistic Text Generation.
+
+## Mastering Prompt Engineering
+Session 42 - Learning about System Vs User Prompts, Zero-shot vs Few Shot, Chain of Thought (CoT) and Prompt templates.
